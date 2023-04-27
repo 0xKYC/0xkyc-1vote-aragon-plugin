@@ -1,0 +1,20 @@
+{
+  "name": "aragon-osx-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@aragon/osx": "^1.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
