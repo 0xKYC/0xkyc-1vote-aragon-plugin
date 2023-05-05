@@ -56,7 +56,7 @@ $ npx hardhat compile
 $ npx hardhat deploy scripts/deploy.ts
 ```
 
-7.Then, go to the PluginFactory contract on Etherscan and deploy the first version of your plugin
+7. Then, go to the PluginFactory contract on Etherscan and deploy the first version of your plugin
 `https://goerli.etherscan.io/address/0x301868712b77744A3C0E5511609238399f0A2d4d#writeContract`
 
 8. Access the plugin in the Aragon Subgraph by visiting and query: `https://subgraph.satsuma-prod.com/aragon/osx-goerli/playground`.
