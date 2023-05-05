@@ -1,4 +1,4 @@
-## Project Title: 0xKYC-1VOTE-ARAGON_PLUGIN
+# 0xKYC-1VOTE-ARAGON_PLUGIN
 
 ### Hackathon: [Aragon] Best Decision-Making Plugin ([DAO Global Hackathon](https://daoglobalhackathon.hackerearth.com/))
 
