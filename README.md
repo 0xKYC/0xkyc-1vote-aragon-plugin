@@ -4,13 +4,13 @@
 
 ## Overview
 
-Our plug-in 1VOTE, aims to develop an innovative Proof of Uniqueness decision-making plugin for Aragon OSx that allows DAOs to easily adapt and evolve their governance mechanisms. Our Proof of Uniqueness is a based on a biometric scan (selfie). After the selfie scan we assign a unique identifier (UUID) to that user and every additional instance of that user is minted with the same UUID. This networks users accross wallets and allows protocols to set mechanisms such that each user has a single verified vote.
+Our 1VOTE plugin aims to develop an innovative Proof of Uniqueness decision-making solution for Aragon OSx, enabling DAOs to easily adapt and evolve their governance mechanisms. Our Proof of Uniqueness is based on a biometric scan (selfie). After performing the selfie scan, we assign a unique identifier (UUID) to the user, and every additional instance of that user is minted with the same UUID. This approach connects users across wallets and allows protocols to implement mechanisms ensuring that each user has a single verified vote.
 
 ## Features
 
 - Easy installation and uninstallation of decision-making plugins
 - Customizable membership criteria for each governance protocol
-- Proof of Uniqueness via id & selfie scan to ensure one verified vote 
+- Proof of Uniqueness via ID & selfie scan to ensure one verified vote 
 - Sanctions and AML screening
 
 ## Instructions
