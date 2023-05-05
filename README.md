@@ -17,57 +17,57 @@ Our plug-in 1VOTE, aims to develop an innovative Proof of Uniqueness decision-ma
 
 1. Clone the repository:
 
-\`\`\`
-git clone https://github.com/0xKYC/0xkyc-1vote-aragon-plugin
-\`\`\`
+```
+$ git clone https://github.com/0xKYC/0xkyc-1vote-aragon-plugin
+```
 
 2. Navigate to the project directory:
 
-\`\`\`
-cd 0xkyc-1vote-aragon-plugin
-\`\`\`
+```
+$ cd 0xkyc-1vote-aragon-plugin
+```
 
 3. Install dependencies:
 
-\`\`\`
-npm install
-\`\`\`
+```
+$ npm install
+```
 
 4. Create .env file using .env.sample file:
 
-\`\`\`
+```
 ADMIN_PUBLIC_KEY=
 ADMIN_PRIVATE_KEY=
 GOERLI_INFURA_URL=
 MUMBAI_INFURA_URL=
 ETHERSCAN_API_KEY=
 POLYGONSCAN_API_KEY=
-\`\`\`
+```
 
 5. Compile the contracts:
 
-\`\`\`
+```
 $ npx hardhat compile
-\`\`\`
+```
 
 6. Deploy the contracts:
 
-\`\`\`
+```
 $ npx hardhat deploy scripts/deploy.ts
-\`\`\`
+```
 
 7.Then, go to the PluginFactory contract on Etherscan and deploy the first version of your plugin
 `https://goerli.etherscan.io/address/0x301868712b77744A3C0E5511609238399f0A2d4d#writeContract`
 
 8. Access the plugin in the Aragon Subgraph by visiting and query: `https://subgraph.satsuma-prod.com/aragon/osx-goerli/playground`.
 
-\`\`\`
+```
 query GetPlugins {
   pluginRepos {
       subdomain
     }
 }
-\`\`\`
+```
 
 ## Documentation
 
