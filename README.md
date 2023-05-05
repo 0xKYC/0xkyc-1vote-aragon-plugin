@@ -75,16 +75,20 @@ Detailed documentation on how to build, publish, and integrate Aragon OSx plugin
 
 ## Team
 
-Adam : Project Manager
-- [LinkedIn](https://www.linkedin.com/in/azasada/)
-Dlan  - Blockchain Developer
-- [LinkedIn](https://www.linkedin.com/in/dylanwysocki)
-Min-Gyun - Backend Developer
-- [LinkedIn](https://www.linkedin.com/in/philip-nomad)
-Sebastian - Frontend Developer
-- [LinkedIn](https://www.linkedin.com/in/sebastian-oldak)
-Kamil - Frontend Developer
-- [LinkedIn](https://www.linkedin.com/in/dzieniszewski/)
+- Adam : Project Manager
+[LinkedIn](https://www.linkedin.com/in/azasada/)
+
+- Dylan : Blockchain Developer
+[LinkedIn](https://www.linkedin.com/in/dylanwysocki)
+
+- Min-Gyun : Backend Developer
+[LinkedIn](https://www.linkedin.com/in/philip-nomad)
+
+- Sebastian : Frontend Developer
+[LinkedIn](https://www.linkedin.com/in/sebastian-oldak)
+
+- Kamil : Frontend Developer
+[LinkedIn](https://www.linkedin.com/in/dzieniszewski/)
 
 
 ## License
