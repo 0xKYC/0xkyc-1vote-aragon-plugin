@@ -1,8 +1,6 @@
 # 0xKYC-1VOTE-ARAGON_PLUGIN
 
-# Hackathon: [Aragon] Best Decision-Making Plugin ([DAO Global Hackathon](https://daoglobalhackathon.hackerearth.com/))
-
-## [1st Place(4,000💰) - Most Creative Use of OSx](https://blog.aragon.org/dao-global-hackathon-bounty-winners/)
+# [DAO Global Hackathon](https://daoglobalhackathon.hackerearth.com/): [1st Place(4,000💰) - Most Creative Use of OSx](https://blog.aragon.org/dao-global-hackathon-bounty-winners/)
 
 ## Overview
 
